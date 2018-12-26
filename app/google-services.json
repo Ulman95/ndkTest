@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268444365100",
+    "firebase_url": "https://ndktest-c269c.firebaseio.com",
+    "project_id": "ndktest-c269c",
+    "storage_bucket": "ndktest-c269c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268444365100:android:791fe3b379b7b903",
+        "android_client_info": {
+          "package_name": "com.rvv.test.ndkcrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268444365100-3tsnhlg3u7b7fkhpsr6sckl6do3kbvbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQi4UBzA6LJ407DEKTFyPmc3HE6SGpfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
